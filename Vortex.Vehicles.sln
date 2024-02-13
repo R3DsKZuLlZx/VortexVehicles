@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vortex.Vehicles.UkVehicleData", "Vortex.Vehicles.UkVehicleData\Vortex.Vehicles.UkVehicleData.csproj", "{6EC2BFFE-6ACE-448F-9BFC-8F2CD87E8691}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EC2BFFE-6ACE-448F-9BFC-8F2CD87E8691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EC2BFFE-6ACE-448F-9BFC-8F2CD87E8691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EC2BFFE-6ACE-448F-9BFC-8F2CD87E8691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EC2BFFE-6ACE-448F-9BFC-8F2CD87E8691}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
